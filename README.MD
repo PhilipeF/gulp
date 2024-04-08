@@ -6,4 +6,4 @@
     - compressão de código JavaScript.
 2) Criar um branch chamada exercicio_gulp;
 3) Armazenar o projeto completo, incluindo o arquivo Gulpfile, neste branch;
-4) Enviar o link do repositório através da plataforma;
+4) Enviar o link do repositório através da plataforma.
